@@ -24,6 +24,9 @@ TUTOR:
 COMPONENTES: - ESP32 - LCD I2C 16x2 - Sensor DS18B20 - Sensor de pH -
 Sensor de turbidez - LEDs - Buzzer - Relé - Pulsador
 
+CODIGO FUENTE:
+-codigo fuente arduino se encuentra en: https://github.com/atroutg/MonitoreoRioCesar/tree/main/src
+
 FUNCIONALIDADES: 
 - Lectura de sensores cada segundo 
 - Evaluación de rangos normales
@@ -47,4 +50,10 @@ USO:
 3. Abrir monitor serial 
 4. Observar resultados
 
+
+
 LICENCIA: Proyecto académico - UNAD 2026
+
+
+
+
