@@ -6,7 +6,7 @@ ASIGNATURA: Microprocesadores y Microcontroladores
 GRUPO: 309696_1 
 FASE: Fase 3 - Diseño y Desarrollo de la Solución
 
-DESCRIPCIÓN: 
+DESCRIPCIÓN:
 Este proyecto implementa un sistema embebido basado en
 ESP32 para el monitoreo ambiental del Río Cesar. Permite medir pH,
 turbidez y temperatura, mostrando los datos en un LCD y generando
